@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/three.js-practice-project/static/css/main.9b890a60.chunk.css",
+    "main.js": "/three.js-practice-project/static/js/main.4b89fde3.chunk.js",
+    "main.js.map": "/three.js-practice-project/static/js/main.4b89fde3.chunk.js.map",
+    "runtime-main.js": "/three.js-practice-project/static/js/runtime-main.1c2ca9c0.js",
+    "runtime-main.js.map": "/three.js-practice-project/static/js/runtime-main.1c2ca9c0.js.map",
+    "static/js/2.632d2302.chunk.js": "/three.js-practice-project/static/js/2.632d2302.chunk.js",
+    "static/js/2.632d2302.chunk.js.map": "/three.js-practice-project/static/js/2.632d2302.chunk.js.map",
+    "index.html": "/three.js-practice-project/index.html",
+    "precache-manifest.2a65657787a1ad7cf5d5c88b958b4aef.js": "/three.js-practice-project/precache-manifest.2a65657787a1ad7cf5d5c88b958b4aef.js",
+    "service-worker.js": "/three.js-practice-project/service-worker.js",
+    "static/css/main.9b890a60.chunk.css.map": "/three.js-practice-project/static/css/main.9b890a60.chunk.css.map",
+    "static/js/2.632d2302.chunk.js.LICENSE.txt": "/three.js-practice-project/static/js/2.632d2302.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c2ca9c0.js",
+    "static/js/2.632d2302.chunk.js",
+    "static/css/main.9b890a60.chunk.css",
+    "static/js/main.4b89fde3.chunk.js"
+  ]
+}
